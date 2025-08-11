@@ -1,0 +1,8 @@
+{
+  "whitelist": [
+    "Discord.exe",
+    "Spotify.exe"
+  ],
+  "blacklist": [],
+  "auto_kill": false
+}
